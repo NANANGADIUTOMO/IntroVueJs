@@ -32,7 +32,7 @@ export default {
       if(this.nama == "Paguyuban Magicom Sakti"){
           this.nama = "paguyuban centong Kebak"
       }else{
-        this.nama = "Paguyuban Magicom Sakti"
+        this.nama = "Paguyuban Magicom Sakti majenang"
       }
     },
     gantiquantity : function(){
